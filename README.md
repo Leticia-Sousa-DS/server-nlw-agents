@@ -56,7 +56,7 @@ docker-compose up -d
 
 ```bash
 # Gere as migrations (se necessário)
-npx drizzle-kit migrates
+npx drizzle-kit migrate
 
 # Popule o banco com dados iniciais (opicional)
 npm run db:seed
