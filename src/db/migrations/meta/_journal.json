@@ -15,6 +15,13 @@
       "when": 1752114506202,
       "tag": "0001_amazing_boomer",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752535266266,
+      "tag": "0002_furry_bruce_banner",
+      "breakpoints": true
     }
   ]
 }
